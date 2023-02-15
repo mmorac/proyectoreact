@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/proyectoreact/static/css/main.073c9b0a.css",
-    "main.js": "/proyectoreact/static/js/main.7a1b8d44.js",
+    "main.css": "/proyectoreact/static/css/main.2032e971.css",
+    "main.js": "/proyectoreact/static/js/main.b01d1322.js",
     "static/js/787.93c83cab.chunk.js": "/proyectoreact/static/js/787.93c83cab.chunk.js",
+    "static/media/grupo.jpg": "/proyectoreact/static/media/grupo.d920ed8c24272f04fd0a.jpg",
+    "static/media/coolvetica rg.otf": "/proyectoreact/static/media/coolvetica rg.3d81d0e1fdbd5f69b232.otf",
     "static/media/logo.svg": "/proyectoreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/proyectoreact/index.html",
-    "main.073c9b0a.css.map": "/proyectoreact/static/css/main.073c9b0a.css.map",
-    "main.7a1b8d44.js.map": "/proyectoreact/static/js/main.7a1b8d44.js.map",
+    "main.2032e971.css.map": "/proyectoreact/static/css/main.2032e971.css.map",
+    "main.b01d1322.js.map": "/proyectoreact/static/js/main.b01d1322.js.map",
     "787.93c83cab.chunk.js.map": "/proyectoreact/static/js/787.93c83cab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7a1b8d44.js"
+    "static/css/main.2032e971.css",
+    "static/js/main.b01d1322.js"
   ]
 }
