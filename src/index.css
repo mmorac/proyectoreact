@@ -1,8 +1,11 @@
+@font-face {
+  font-family: Coolvetica;
+  src: url('../assets/fonts/coolvetica\ rg.otf');
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Coolvetica';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -10,4 +13,43 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+footer{
+  background-color: #EF7800;
+  color: white;
+}
+
+.homecontainer{
+  background-image: url('../assets/img/grupo.jpg');
+  background-size: 85em 42em;
+  color: white;
+  height: 42em;
+}
+
+.countdowncontainer{
+  height: 42em;
+}
+
+.cursoscontainer{
+  height: 42em;
+}
+
+.contacto{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#0C9;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+
+.iconowa{
+  padding-top: 10%;
+  font-size: 3em;
+  color: white;
 }
